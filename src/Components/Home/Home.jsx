@@ -75,3 +75,5 @@ const Home = () => {
 }
 
 export default Home
+
+/* Finishing my code here */
